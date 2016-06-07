@@ -1,0 +1,27 @@
+{
+  "name": "utter",
+  "version": "1.0.0",
+  "description": "A group chat application.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aruneinstein/utter.git"
+  },
+  "keywords": [
+    "chat",
+    "messaging"
+  ],
+  "author": "Arun Kumar M S, Anirudh Janga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aruneinstein/utter/issues"
+  },
+  "homepage": "https://github.com/aruneinstein/utter#readme"
+}
