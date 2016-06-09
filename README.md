@@ -1,18 +1,23 @@
 # Utter
 Chatting app
 
+
+### How to setup development environment
+1. Install nodejs (v4.4.5) using nvm (https://github.com/creationix/nvm)
+2. Install npm
+
 ## How to develop
-`clone repo`
-`npm install`
 
-### Running the app
+1. `git clone https://github.com/aruneinstein/utter.git`
+2. `cd utter && npm install`
 
-Runs like a typical express app:
+### How to run development server
 
-    node app.js
+    npm run dev
 
 ### Running tests
-    no tests yet
+
+    npm test 
 
 ## Directory Layout
     
